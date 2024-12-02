@@ -277,7 +277,7 @@ export default function AboutMe() {
             <div className="card card-compact bg-base-100 shadow-xl hover:scale-105 transition-transform cursor-pointer">
               <figure>
                 <img
-                  src="" // Replace with your certificate image
+                  src="/" // Replace with your certificate image
                   alt="Certificate 3 in process"
                   className="object-cover w-full h-[500px]"
                 />
@@ -298,7 +298,7 @@ export default function AboutMe() {
             <div className="card card-compact bg-base-100 shadow-xl hover:scale-105 transition-transform cursor-pointer">
               <figure>
                 <img
-                  src="" // Replace with your certificate image
+                  src="/" // Replace with your certificate image
                   alt="Certificate 4 in process"
                   className="object-cover w-full h-[500px]"
                 />
